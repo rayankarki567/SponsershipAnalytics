@@ -1,0 +1,48 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Data (large files — do not commit)
+data/raw/
+data/processed/
+data/frames/
+data/dataset/
+data/outputs/
+
+# Model weights (large binaries)
+models/yolov8/*.pt
+
+# YOLOv8 training runs
+runs/
+
+# Environment secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.vscode/settings.json
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
