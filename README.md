@@ -69,7 +69,7 @@ FYP/
 |---------------------|-------------------------------------|
 | Object Detection    | YOLOv8 (Ultralytics)                |
 | Video Processing    | OpenCV (`cv2`)                      |
-| Backend             | Python (FastAPI or Flask)           |
+| Backend             | Python (Gradie prefered for simple local usage)           |
 | Frontend            | HTML/CSS/JS or Streamlit (TBD)      |
 | Data Storage        | JSON / CSV / SQLite                 |
 | Visualization       | Matplotlib, Plotly                  |
