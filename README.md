@@ -1,10 +1,5 @@
 # Video-Based Sponsorship Analytics System
 
-> **Final Year Project (FYP)**  
-> Date Started: February 2026  
-> Status: Planning & Development
-
----
 
 ## Project Summary
 
